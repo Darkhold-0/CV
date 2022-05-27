@@ -1,0 +1,39 @@
+img {
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    display: block;
+    border: 2px;
+    border-radius: 175px;
+}
+
+#container {
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    border: 1px;
+    background-color: rgb(239, 235, 219);
+
+}
+
+#cont {
+    border: 1px;
+    background-color: rgb(239, 235, 219);
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(236, 56, 16);
+    background-color: aqua;
+}
+
+a:active {
+    background-color: gray;
+}
+
+a:visited {
+    background-color: antiquewhite;
+}
